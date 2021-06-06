@@ -1,0 +1,17 @@
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.deps.json
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\ref\BussinessLogicLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\BussinessLogicLayer.pdb
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\ref\BussinessLogicLayer.dll
+C:\Users\aleyn\source\repos\YazOkuluDersler\BussinessLogicLayer\obj\Debug\net5.0\BussinessLogicLayer.pdb
